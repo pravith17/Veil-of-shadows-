@@ -31,6 +31,7 @@ class Product {
     String name;
     double price;
     String category;
+    int i;
 
     public Product(String name, double price, String category) {
         this.name = name;
