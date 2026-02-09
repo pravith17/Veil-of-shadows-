@@ -9,7 +9,7 @@ class User {
     private String phoneNumber;
     private String password;
     private String address;
-    int i
+    int j;
 
     public User(String name, String email, String phoneNumber, String password) {
         this.name = name;
